@@ -2,7 +2,7 @@ import ddf.minim.*;
 import ddf.minim.signals.*;
 import ddf.minim.effects.*;
  
-Minim minim;
+Minim minim;  //yeah
 AudioOutput out;
 SquareWave square;
 LowPassSP   lowpass;
